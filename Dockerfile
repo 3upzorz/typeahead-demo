@@ -9,6 +9,6 @@ RUN yarn install
 COPY . /opt/app-root
 RUN yarn run build
 
-EXPOSE 8080
+EXPOSE 3000
 
 CMD ["yarn", "start"]
