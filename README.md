@@ -36,3 +36,5 @@ then
 
 ### step 5
 open your browser and go to localhost:3000 to view the application!
+
+>for keyboard controls, tab though the list and press enter to select
