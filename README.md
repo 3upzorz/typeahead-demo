@@ -32,8 +32,6 @@ then
 
 `node scripts/insertCountries.js`
 
->NOTE: for some reason the insertCountries is very unstable with connections to elasticsearch create actions. Haven't had time to debug, but it should insert enough fields to test. If you get errors you can just exit the script and either repeat steps 3 & 4 or just continue to step 5.
-
 ### step 5
 open your browser and go to localhost:3000 to view the application!
 
