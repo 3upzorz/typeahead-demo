@@ -9,6 +9,7 @@
     "build": "webpack"
   },
   "dependencies": {
+    "elasticsearch": "^13.0.1",
     "express": "^4.15.3",
     "html-webpack-plugin": "^2.28.0",
     "path": "^0.12.7",

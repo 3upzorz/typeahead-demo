@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux'
-import ConnectedTypeAhead from './type-ahead/ConnectedTypeAhead';
+import ConnectedTypeAhead from './ConnectedTypeAhead';
 
 export default class App extends Component {
 

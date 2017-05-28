@@ -13,6 +13,6 @@ export default class SearchInput extends Component {
 
   render() {
     const { onChange, value } = this.props;
-    return <input type="text" onChange={onChange} value={value} />;
+    return <input className="typeahead__search-input" type="text" onChange={onChange} value={value} />;
   }
 }
